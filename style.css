@@ -105,9 +105,9 @@ body::-webkit-scrollbar{
 @media only screen and (max-width: 1800px) {
     .contents {
         text-align: center;
-        width: 40%;
+        width: 60%;
         display: grid;
-        grid-template-columns:1fr 1fr;
+        grid-template-columns:1fr;
         row-gap: 40px;
     }
   }
